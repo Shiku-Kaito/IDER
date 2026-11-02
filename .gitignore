@@ -1,0 +1,9 @@
+# data, results, model weights (large / generated)
+data/
+result/
+preprocessing/checkpoints/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

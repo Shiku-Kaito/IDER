@@ -1,0 +1,21 @@
+# Tested with Python 3.9 (CUDA 12.4 wheels of PyTorch are installed from PyPI)
+torch==2.5.1
+torchvision==0.20.1
+torchmetrics==1.6.1
+numpy==2.0.2
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.6.1
+scanpy==1.10.3
+anndata==0.10.9
+h5py==3.12.1
+umap-learn==0.5.7
+matplotlib==3.9.4
+pillow==11.1.0
+tqdm==4.67.1
+# preprocessing (download / feature extraction)
+pyzipper==0.4.0
+huggingface-hub==0.27.1
+# tutorial notebooks
+ipykernel
+nbformat
