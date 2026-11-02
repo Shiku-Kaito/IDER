@@ -97,7 +97,6 @@ export HF_TOKEN="<hugging_face_token>"
 bash preprocessing/run_preprocessing.sh
 ```
 
-**Security:** Do not commit passwords or access tokens to Git. For shared environments, enter credentials securely rather than placing secrets in saved scripts or shell history.
 
 The preprocessing steps are:
 
