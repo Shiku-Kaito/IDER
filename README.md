@@ -2,7 +2,7 @@
 
 **Accepted at NeurIPS 2026**
 
-[**Project Page**]([https://arxiv.org/abs/2609.33928](https://shiku-kaito.github.io/IDER-project-page/)) | [**Paper (arXiv)**](https://arxiv.org/abs/2609.33928) | [**Code**](https://github.com/Shiku-Kaito/IDER) | [**Metric Tutorial**](tutorial/01_tutorial_metrics.ipynb) | [**Loss Tutorial**](tutorial/02_tutorial_losses.ipynb) | [**Citation**](#citation)
+[**Project Page**](https://shiku-kaito.github.io/IDER-project-page/) | [**Paper (arXiv)**](https://arxiv.org/abs/2609.33928) | [**Code**](https://github.com/Shiku-Kaito/IDER) | [**Metric Tutorial**](tutorial/01_tutorial_metrics.ipynb) | [**Loss Tutorial**](tutorial/02_tutorial_losses.ipynb) | [**Citation**](#citation)
 
 ![IDER concept](figures/ider_concept.png)
 
